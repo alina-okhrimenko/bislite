@@ -7,4 +7,4 @@ Featuting:
 -  Before & After Elements;
 -  Hovers;
 
-https://alina-okhrimenko.github.io/bislite/
+https://alina-okhrimenko.github.io/bislite-website-layout/
