@@ -3,6 +3,7 @@ Bislite Website Layout
 
 Featuting:
 - Dropdown Menu;
+- Floats
 -  Before & After Elements;
 -  Hovers;
 
